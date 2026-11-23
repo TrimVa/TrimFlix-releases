@@ -134,7 +134,8 @@ Les versions suivantes se proposent directement dans l'application.
 
 La version PC est une application à part, avec la même présentation que la TV,
 au clavier et à la souris : installeur **MSI** pour Windows et paquet **.deb** pour Linux. Elle est en cours de
-test (TV en direct avec guide, Films, Séries, signalement de problème).
+test (accueil, TV en direct avec guide et Replay, Films, Séries, signalement de problème, demande de titre,
+mise à jour intégrée, rangement des playlists synchronisé avec la TV).
 
 Raccourcis : flèches, Entrée et Échap pour naviguer, `Ctrl+F` pour chercher, `F` ou double-clic pour le plein
 écran, molette pour le volume, Espace pour la pause.
