@@ -70,7 +70,9 @@ Une seule application Android s'adapte à l'appareil :
 ### 🛠️ Pratique
 - **Mise à jour intégrée** : l'application propose elle-même les nouvelles versions.
 - **Signaler un problème** depuis l'application ; les plantages sont remontés automatiquement pour être corrigés.
-- Réglages réseau (DNS sécurisé, IPv4 uniquement) pour les connexions difficiles.
+- Une playlist refusée ou injoignable est signalée automatiquement au revendeur (abonnement expiré : « Contactez votre revendeur »).
+- Réglages réseau (DNS sécurisé, IPv4 uniquement) pour les connexions difficiles, appliqués aussi à la TV en direct.
+- **Mode box légère** (réglages de lecture) pour les petites box ; les autres box utilisent plus de mémoire pour les films 4K et Dolby Vision.
 
 ## Captures d'écran
 
